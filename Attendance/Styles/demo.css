@@ -1,0 +1,16 @@
+nav{
+   background-color: rgb(255, 0, 0);
+
+   }
+
+ div ul li a:hover {
+   background-color: rgb(255, 204, 248);
+ }
+
+ .home {
+   text-align: center;
+   font-size: 50px;
+   padding: 300px;
+   background-color: antiquewhite;
+   color: brown;
+ }

@@ -1,0 +1,17 @@
+﻿
+.footer
+{
+    text-align:center;
+    color:HighlightText;
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    }
+.navbar-nav .nav-link:hover 
+ {
+  background-color: black;
+  color:white
+}
+
